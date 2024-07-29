@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "guild_id": 0,
+  "ticket_channel": 0,
+  "category": 0,
+  "team_role": 0,
+  "log_channel": 0,
+  "timezone": "CET",
+  "embed_title": "Support-Tickets",
+  "embed_description": "Here you can open a Support Ticket!"
+}
